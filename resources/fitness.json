@@ -1,0 +1,20 @@
+{
+  "workoutHistory": [
+    {
+      "date": "2024-01-29",
+      "workoutType": "Running",
+      "durationMinutes": 29
+    },
+    {
+      "date": "2024-01-28",
+      "workoutType": "Strength Training",
+      "durationMinutes": 45
+    },
+    {
+      "date": "2024-02-08",
+      "workoutType": "Strength Training",
+      "durationMinutes": 45
+    }
+
+  ]
+}

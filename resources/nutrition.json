@@ -1,0 +1,25 @@
+{
+  "nutritionHistory": [
+    {
+      "date": "2024-01-29",
+      "foodsConsumed": [
+          "Oatmeal", "Banana", "Ham Sandwich", "Apple", "Kind Bar"
+      ],
+      "totalCalories": 1523
+    },
+    {
+      "date": "2024-01-29",
+      "foodsConsumed": [
+        "Fish and Chips", "Ice Cream"
+      ],
+    "totalCalories": 932
+    },
+    {
+      "date": "2024-01-30",
+      "foodsConsumed": [
+        "Oatmeal", "Banana", "Hummus Crunch Salad", "Chocolate Chip Cookie", "Cauliflower Soup"
+      ],
+      "totalCalories": 1567
+    }
+  ]
+}

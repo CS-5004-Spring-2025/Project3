@@ -1,3 +1,5 @@
+package tracker;
+
 /**
  * Required driver class for the FitnessTracker program.
  */

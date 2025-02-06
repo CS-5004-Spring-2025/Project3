@@ -2,7 +2,7 @@
 
 ### Due - Thursday, March 13, 2025
 
-Assignment Link: []()
+Assignment Link: [https://classroom.github.com/a/i5FMuAAJ](https://classroom.github.com/a/i5FMuAAJ)
 
 This project requires you to **design** and **implement** a Fitness Tracker application. A large portion of your grade will depend on the design you choose for the program. Use of `static` fields or methods should be well justified!
 

@@ -135,6 +135,7 @@ be completely correct to earn credit.
 | Overriding used                           | 1      |
 | Overall program design                    | 4      | 
 | Uses TDD                                  | 2      |
-| Testing is complete                       | 2      |
+| Testing is complete                       | 1      |
+| Style check passes                        | 1      |
 | Javadoc                                   | 1      | 
 | Reflection                                | 1      | 
